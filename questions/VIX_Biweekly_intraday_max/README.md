@@ -1,6 +1,6 @@
 The question at hand is:
 
-*What will be the maximum intraday value of the VIX over these biweekly periods in Q1 2026?*
+## What will be the maximum intraday value of the VIX over these biweekly periods in Q1 2026?
 
 The link to this question on metaculus can be found here. 
 
@@ -18,4 +18,6 @@ and we will consider the equation used to calculate the vix according to this we
 
 https://www.sfu.ca/~poitras/419_VIX.pdf
 
-*End of Initial Thoughts*
+Looking at the data in VIX_History.csv and the question page, we only need to concern ourselves with the HIGH value. Thus, in cleaning the data, we should remove all data that isn't relevant in january (at least, for getting a range) and isn't recorded as a HIGH.
+
+**End of Initial Thoughts**

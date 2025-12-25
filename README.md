@@ -20,4 +20,3 @@ This repository contains my independent forecasting work on Metaculus.
 
 ## Notes
 This repository is intended as a transparent record of reasoning, not hindsight-optimized results.
-
